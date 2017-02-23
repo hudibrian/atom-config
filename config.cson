@@ -1,0 +1,27 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#932193"
+      accentColor: "#11bc11"
+      genAccent: true
+      paintCursor: true
+    tabs:
+      compactTabs: true
+    treeView:
+      compactList: true
+    ui:
+      panelContrast: true
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax-dark"
+    ]
+    useCustomTitleBar: true
+  editor:
+    fontSize: 15
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "19ed2ff6-0d17-e0d0-6b51-12256cf63570"
+  welcome:
+    showOnStartup: false
